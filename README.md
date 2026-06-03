@@ -12,6 +12,7 @@ Ask a doubt → get instant AI response Not satisfied? → connect to a real stu
 
 🚀 Future Scope Real-time backend (WebSockets) Actual Google Meet integration AI model integration (LLMs) College-level leaderboard Mobile app version 👨‍💻 Team Team Name: TERA BHAI SEEDHE CODE
 
-Daksh Jain (25BCE11407) Yash Modi (25BAI1144) Vinayak Vikram Singh (25BAI10262) 🎯 Final Note StudyFlare is not just about studying. It’s about making learning faster, smarter, and collaborative.
+Daksh Jain (25BCE11407) Yash Modi (25BAI1144) Vinayak Vikram Singh (25BAI10262) 🎯 Final Note StudyFlare is not just about studying. It’s about making learning faster, smarter, and collaborative. 
 
 ⭐ If you like this project, give it a star!
+Made with love ❤️ By Daksh Jain 
