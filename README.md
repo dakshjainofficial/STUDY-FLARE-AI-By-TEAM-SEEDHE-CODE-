@@ -16,3 +16,46 @@ Daksh Jain (25BCE11407) Yash Modi (25BAI1144) Vinayak Vikram Singh (25BAI10262) 
 
 ⭐ If you like this project, give it a star!
 Made with love ❤️ By Daksh Jain 
+
+# StudyFlare 📚
+
+StudyFlare is a modern learning platform designed to help students organize, manage, and enhance their academic journey. The platform provides an intuitive interface for accessing study materials, tracking progress, and collaborating with peers.
+
+## Features
+
+* User-friendly and responsive design
+* Secure authentication system
+* Study material management
+* Progress tracking
+* Real-time collaboration capabilities
+* Mobile-friendly interface
+
+## Tech Stack
+
+* Frontend: React.js
+* Backend: Node.js
+* Database: MongoDB
+* Authentication: JWT
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies
+3. Configure environment variables
+4. Run the development server
+
+## Future Improvements
+
+* AI-powered study recommendations
+* Advanced analytics dashboard
+* Group study sessions
+* Enhanced collaboration tools
+
+## Contributing
+
+Contributions are welcome. Feel free to open issues and submit pull requests to improve the project.
+
+## License
+
+This project is licensed under the MIT License.
+
